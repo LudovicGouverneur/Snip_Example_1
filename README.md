@@ -35,7 +35,7 @@ ___
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
-```
+  ```
 
 * debugger: snippets directly in the text
 * sketches you made
