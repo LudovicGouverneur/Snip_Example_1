@@ -11,13 +11,13 @@ This example is the first of the class, which help us understand different primi
 
 ## Code
 ```js
-typeof (typeof Number(void Boolean(null))).toString()```
+typeof (typeof Number(void Boolean(null))).toString()
+```
 ___
 
 ## Exercises & study links.  
 * pytut: /
 * replit: [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)  
-
   ```js
   typeof (typeof Number(void Boolean(null))).toString();
   // S0 : (Null, null)
@@ -33,9 +33,7 @@ ___
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
-```   
-
-
+```
 * debugger: snippets directly in the text
 * sketches you made
 
