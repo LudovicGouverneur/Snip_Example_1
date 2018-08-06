@@ -32,16 +32,19 @@ ___
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
-```
+```  
+
 * debugger: snippets directly in the text
 * sketches you made
 
 ## Review : 
+
 * Things I struggled with : classifying the files
 * Things you learned : 
 * typeof returns a string
 * vocab : 
 * next step : making an exercice of it
+
 ## Link.  
 * [w3schools](https://www.w3schools.com/js/js_datatypes.asp)
 
