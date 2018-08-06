@@ -20,6 +20,5 @@ ___
 *sketches you made
 
 ## Link.  
-* w3schools : https://www.w3schools.com/js/js_datatypes.asp
+* [w3schools](https://www.w3schools.com/js/js_datatypes.asp)
 
-example: https://github.com/elewa-academy/block-scope-let-vs-var#index
