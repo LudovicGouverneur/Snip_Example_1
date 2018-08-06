@@ -14,10 +14,10 @@ This example is the first of the class, which help us understand different primi
 ___
 
 ## Exercises & study links.  
-*pytut: /
-*replit: complete link, step-throughs, exercises
-*debugger: snippets directly in the text
-*sketches you made
+* pytut: /
+* replit: complete link, step-throughs, exercises
+* debugger: snippets directly in the text
+* sketches you made
 
 ## Link.  
 * [w3schools](https://www.w3schools.com/js/js_datatypes.asp)
