@@ -11,7 +11,7 @@ This example is the first of the class, which help us understand different primi
 
 ## Code
 [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
-'''js
+```js
 typeof (typeof Number(void Boolean(null))).toString();
   // S0 : (Null, null)
   Boolean(null);
@@ -26,7 +26,7 @@ typeof (typeof Number(void Boolean(null))).toString();
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
-'''
+```
 ___
 
 ## Exercises & study links.  
