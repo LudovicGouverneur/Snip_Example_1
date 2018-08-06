@@ -5,13 +5,18 @@ This example is the first of the class, which help us understand different primi
 
 
 ## Main learning objective
-1. primitive coercion 
-2. primitive types
+1. Primitive coercion 
+2. Primitive types
 3. Creating our first end-to-end snippet analysis and building exercice on it
 
 ## Code
-[myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
-```js
+'typeof (typeof Number(void Boolean(null))).toString()'
+___
+
+## Exercises & study links.  
+* pytut: /
+* replit: [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
+  ```js
 typeof (typeof Number(void Boolean(null))).toString();
   // S0 : (Null, null)
   Boolean(null);
@@ -27,18 +32,13 @@ typeof (typeof Number(void Boolean(null))).toString();
   typeof "number";
   // S6 : (String,"String")
 ```
-___
-
-## Exercises & study links.  
-* pytut: /
-* replit: complete link, step-throughs, exercises
 * debugger: snippets directly in the text
 * sketches you made
 
 ## Review : 
 * Things I struggled with : classifying the files
 * Things you learned : 
-** typeof returns a string
+* typeof returns a string
 * vocab : 
 * next step : making an exercice of it
 ## Link.  
