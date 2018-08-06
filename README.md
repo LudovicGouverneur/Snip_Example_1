@@ -10,7 +10,8 @@ This example is the first of the class, which help us understand different primi
 3. Creating our first end-to-end snippet analysis and building exercice on it
 
 ## Code
-```js typeof (typeof Number(void Boolean(null))).toString()```
+```js
+typeof (typeof Number(void Boolean(null))).toString()```
 ___
 
 ## Exercises & study links.  
