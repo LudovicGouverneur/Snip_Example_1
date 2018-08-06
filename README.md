@@ -18,4 +18,4 @@ typeof (typeof Number(void Boolean(null))).toString();
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
-~~~~'
+~~~~
