@@ -1,4 +1,4 @@
-# Snip_Example_1
+# Snip_Coercion&Primitive practise
 
 ## Description :
 This example is the first of the class, which help us understand different primitive coercion and primitive types.
