@@ -38,7 +38,7 @@ ___
   ```
 
 * debugger: snippets directly in the text
-* sketches you made
+* [sketches you made](https://sketchboard.me/HA97gi8gPUEH)
 
 ## Review : 
 
