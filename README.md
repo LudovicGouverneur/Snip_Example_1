@@ -11,9 +11,6 @@ This example is the first of the class, which help us understand different primi
 
 ## Code
 [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
-
-<iframe height="400px" width="100%" src="https://repl.it/@Ludovic7127/IroncladWebbedOutcome?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 ___
 
 ## Exercises & study links.  
