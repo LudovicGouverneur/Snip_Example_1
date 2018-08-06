@@ -15,9 +15,10 @@ ___
 
 ## Exercises & study links.  
 * pytut: /
-* replit: [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
+* replit: [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)  
+
   ```js
-typeof (typeof Number(void Boolean(null))).toString();
+  typeof (typeof Number(void Boolean(null))).toString();
   // S0 : (Null, null)
   Boolean(null);
   // S1 : (Boolean, false)
