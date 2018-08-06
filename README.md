@@ -1,7 +1,7 @@
 # Snip_Example_1
 
 ## Code
-typeof (typeof Number(void Boolean(null))).toString();
+'typeof (typeof Number(void Boolean(null))).toString();
   // S0 : (Null, null)
   Boolean(null);
   
@@ -17,3 +17,4 @@ typeof (typeof Number(void Boolean(null))).toString();
   // S5 : (String,"number")
   typeof "number";
   // S6 : (String,"String")
+'
